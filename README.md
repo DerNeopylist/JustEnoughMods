@@ -1,4 +1,4 @@
-Just Enough Mod
+Just Enough Mods
 ======
 Minecraft modpack with not too many but well picked mods. It contains magic, tech and some advanturing mechanics. It has... just enough mods.
 
