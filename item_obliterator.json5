@@ -16,7 +16,16 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "examplemod:example_item"
+    "waystones:warp_dust",
+    "waystones:warp_plate",
+    "waystones:dormant_shard",
+    "waystones:warp_scroll",
+    "!waystones:.*_sharestone",
+    "torchmaster:feral_flare_lantern",
+    "torchmaster:frozen_pearl",
+    "enderio:powered_spawner",
+    "enderio:broken_spawner"
+
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
