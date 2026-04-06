@@ -463,6 +463,10 @@ Optional Mods for "Visuals" Pack
 as of v0.2.1
 used for: fancy glass
 
+**Cool Rain Reforged**
+as of v0.2.1
+used for: fancy Rain
+
 **Distant Horizons**
 as of v0.2.1
 used for: adding "Level of Details" functionality
@@ -487,17 +491,13 @@ as of v0.2
 used for: Optifine compatible shader support
 causes: "Sodium"
 
-**Make Bubbles Pop** 0.3.0
+**Make Bubbles Pop** 0.3.0 (Disabled)
 as of v0.2.1
 used for: fancy bubbles
 
 **Model Gap Fix** 1.21-1.10
 as of v0.2
 used for: Graphical enhancement
-
-**Smooth F5** 1.0.1
-as of v0.2.1
-used for: fancy third person
 
 *Sodium* 0.6.13+mc1.21.1
 as of v0.2
