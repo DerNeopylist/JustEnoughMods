@@ -196,11 +196,6 @@ as of v0.1
 used for: automation with tech
 causes: "Titanium"
 
-**Iris** 1.8.12-snapshot+mc1.21.1-local
-as of v0.2
-used for: Optifine compatible shader support
-causes: "Sodium"
-
 **Item Obliterator** 2.3.0
 as of v0.2
 used for: disabling certain items for a more balanced modpack
@@ -248,10 +243,6 @@ causes:
 as of v0.1
 used for: Adding more structures making exploration more exciting
 
-**Model Gap Fix** 1.21-1.10
-as of v0.2
-used for: Graphical enhancement
-
 *Moonlight Lib* 1.21-2.29.29
 as of v0.2
 used for: library/API
@@ -295,7 +286,7 @@ as of v0.2
 used for: Claiming chunks for building protection and chunkloading
 
 **Open Sesame** 1.0.2
-as of v0.2
+as of v0.2 until v0.2.1
 used for: opening two doors at once just for fun
 
 *oωo (oωo-lib)* 0.12.15.5-beta.1+1.21.1
@@ -366,11 +357,6 @@ caused by: "Silent Gear"
 **Simple Voice Chat** 1.21.1-2.6.15
 as of v0.2
 used for: in-game communication with proximity dependence
-
-*Sodium* 0.6.13+mc1.21.1
-as of v0.2
-used for: library/API
-caused by: "Iris"
 
 **Sophisticated Backpacks** 3.25.36
 as of v0.1
@@ -456,3 +442,64 @@ used for: syncing "Waystones" and "Xaero's Minimap"
 as of v0.2
 used for: library/API
 caused by: "Villages&Pillages"
+
+
+Optional Mods for "Visuals" Pack
+
+**Auto HUD** 8.11+1.21.1-neoforge
+as of v0.2.1
+used for: hide HUD
+
+**Continuity** 3.0.0+1.21.neoforge
+as of v0.2.1
+used for: fancy glass
+
+**Distant Horizons**
+as of v0.2.1
+used for: adding "Level of Details" functionality
+
+**Eating Animation** 6.0.1
+as of v0.2.1
+used for: fancy eating animation
+causes: GroovyModLoader
+
+*Forgified Fabric API* 0.116.7+2.2.4+1.21.1
+as of v0.2.1
+used for: library/API
+caused by: Continuity, Sinytra Connector
+
+*GroovyModLoader*  6.0.2
+as of v0.2.1
+used for: library/API
+caused by: Eating Animation
+
+**Iris** 1.8.12-snapshot+mc1.21.1-local
+as of v0.2
+used for: Optifine compatible shader support
+causes: "Sodium"
+
+**Make Bubbles Pop** 0.3.0
+as of v0.2.1
+used for: fancy bubbles
+
+**Model Gap Fix** 1.21-1.10
+as of v0.2
+used for: Graphical enhancement
+
+**Smooth F5** 1.0.1
+as of v0.2.1
+used for: fancy third person
+
+*Sodium* 0.6.13+mc1.21.1
+as of v0.2
+used for: library/API
+caused by: "Iris"
+
+*Sinytra Connector* 2.0.0-beta.14+1.12.1
+as of v0.2.1
+used for: library/API
+caused by: Continuity
+
+**Visuality: Reforged** 2.1.0
+as of v0.2.1
+used for: more particles
