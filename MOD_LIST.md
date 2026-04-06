@@ -210,6 +210,10 @@ as of v0.1
 used for: Show player possible items and recipes
 causes: "AE2 JEI Integration", "FTB JEI Extras", "FTB Library", "Architectury API"
 
+*Kotlin for Forge*
+as of v0.2.1
+used for: library/API
+caused by: "Xaero's Maps x Waystones"
 *KubeJS* 2101.7.2-build.348
 as of v0.2
 used for: library/API, ease of development
@@ -435,8 +439,17 @@ as of v0.1
 used for: ease of travelling and exploration
 
 **Xaero's Minimap and Waystones Compatibility** 1.0.1
-as of v0.1
+as of v0.1 until v0.2.1
 used for: syncing "Waystones" and "Xaero's Minimap"
+
+**Xaero's Maps x Waystones**
+as of v0.2.1
+used for: syncing "Waystones" and "Xaero's Minimap", replacing "Xaero's Minimap and Waystones Compatibility 1.0.1" because of Bug
+
+*YetAnotherConfigLib*
+as of v0.2.1
+used for: library/API
+caused by: "Xaero's Maps x Waystones"
 
 *YUNG's API* 1.21.1-NeoForge-5.1.6
 as of v0.2
@@ -445,10 +458,6 @@ caused by: "Villages&Pillages"
 
 
 Optional Mods for "Visuals" Pack
-
-**Auto HUD** 8.11+1.21.1-neoforge
-as of v0.2.1
-used for: hide HUD
 
 **Continuity** 3.0.0+1.21.neoforge
 as of v0.2.1
