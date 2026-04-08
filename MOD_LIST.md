@@ -15,7 +15,7 @@ caused by: "Just Enough Items (JEI)", "Applied Energistics 2"
 causes: "GuideME"
 
 **The Aether** 1.5.10
-As of v0.1
+As of v0.1 until v0.2.1
 used for: New dimension to explore
 causes: "oωo (oωo-lib)"
 
@@ -152,7 +152,7 @@ as of v0.1
 used for: Adding Structures for a more interesting World
 
 **Fireproof Boats** 1.21.0-1.0.4
-as of v0.3 
+as of v0.2 until v0.2.1 
 used for: swimming on lava with warped and crimson wood sounds fun
 
 **FTB JEI Extras** 21.1.7
@@ -205,6 +205,10 @@ causes: "Necronomicon API"
 as of v0.2
 used for: Show the player what they are looking at
 
+**Jade Addons** 6.1.0
+as of v0.2.1
+used for: adding more information about things from mods to Jade
+
 **Just Enough Items** 19.27.0.340
 as of v0.1
 used for: Show player possible items and recipes
@@ -239,9 +243,8 @@ used for: practicing target for Silent Gear
 causes: "Moonlight Lib"
 
 **Mo Glass** 1.10.1-MC1.21-NeoForge
-as of v0.2
+as of v0.2 until v0.2.1
 used for: Adding Blocks for more building
-causes:
 
 **Mo' Structures** 1.6.0+1.21.1
 as of v0.1
@@ -347,6 +350,10 @@ as of v0.1
 used for: Adding more possibilities crafting weapons and tools
 causes: "sProductive Metalworks", "Silent Gear Metalworks", "Silent Lib"
 
+**SilentGearJEI** 1.1.4
+as of v0.2.1
+used for: better integration of Silent Gear into JEI
+
 **Silent Gear Metalworks** 1.21.1-1.4.6
 as of v0.1
 used for: compatibility between Silent Gear and Productive Metalworks
@@ -420,8 +427,8 @@ causes: "SuperMartijn642's Config Lib", "SuperMartijn642's Core Lib"
 as of v0.1
 used for: adding dimension for more exciting exploration
 
-**The Undergarden** 0.9.6
-as of v0.1
+The Undergarden 0.9.6
+as of v0.1 until v0.2.1
 used for: adding dimension for more exciting exploration
 
 **Villages&Pillages** 1.0.3
