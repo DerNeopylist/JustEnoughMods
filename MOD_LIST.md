@@ -14,7 +14,7 @@ used for: Compatibility between "Applied Energistics 2" and "Just Enough Items".
 caused by: "Just Enough Items (JEI)", "Applied Energistics 2"
 causes: "GuideME"
 
-**The Aether** 1.5.10
+The Aether 1.5.10
 As of v0.1 until v0.2.1
 used for: New dimension to explore
 causes: "oωo (oωo-lib)"
@@ -95,6 +95,10 @@ As of v0.1
 used for: adding Biomes for a more Interesting World
 causes: "GlitchCore", "TerraBlender"
 
+**Building Gadgets** 1.3.9
+as of v0.2.2
+used for: ease of building
+
 **Chipped** 4.0.2
 As of v0.1
 used for: more posibilities for building
@@ -137,10 +141,9 @@ caused by: "Relics"
 as of v0.2
 used for: making final? bossfight exciting again
 
-**Ender IO** 8.2.5-beta
-As of v0.1
+Ender IO 8.2.5-beta
+As of v0.1 until v0.2.2
 used for: base of modpacks's tech parts
-causes: "KubeJS EnderIO"
 
 **EnderStorage** 2.13.0.191
 as of v0.2
@@ -151,9 +154,17 @@ causes: "CodeChicken Lib"
 as of v0.1
 used for: Adding Structures for a more interesting World
 
-**Fireproof Boats** 1.21.0-1.0.4
+Fireproof Boats 1.21.0-1.0.4
 as of v0.2 until v0.2.1 
 used for: swimming on lava with warped and crimson wood sounds fun
+
+**FTB Chunks** 2101.1.14
+as of v0.2.2
+used for: claiming chunks
+
+**FTB Chunks x Xaero's Compat** 1.1.3
+as of v0.2.2
+used for: FTB Chunks integration for Minimap
 
 **FTB JEI Extras** 21.1.7
 as of v0.1
@@ -166,6 +177,10 @@ as of v0.1
 used for: library/API
 causes: "Architectury API"
 caused by: "FTB JEI Extras", Just Enough Items"
+
+**FTB Teams** 2101.1.10
+as of v0.2.2
+used for: Teaming between players
 
 *GeckoLib 4* 4.8.4
 as of v0.2
@@ -218,10 +233,15 @@ causes: "AE2 JEI Integration", "FTB JEI Extras", "FTB Library", "Architectury AP
 as of v0.2.1
 used for: library/API
 caused by: "Xaero's Maps x Waystones"
-*KubeJS* 2101.7.2-build.348
+
+**KubeJS** 2101.7.2-build.348
 as of v0.2
 used for: library/API, ease of development
-causes: "KubeJS EnderIO", "Rhino"
+causes: "Rhino"
+
+**KubeJS Mekanism** 2101.1.7-build.18
+as of v0.2.2
+used for: compatibility with KubeJS
 
 *Lithostitched* 1.6.5
 as of v0.1
@@ -231,6 +251,18 @@ caused by: "ChoiceTheorem's Overhauled Village"
 **Living Things** 1.21.1-2.3.0
 as of v0.1
 used for: Adding more mobs making world more exciting
+
+**Mekanism** 10.7.19.85
+as of v0.2.2
+used for: more tech and Ender IO replacement
+
+**Mekanism Covers** 1.3-BETA
+as of v0.2.2
+used for: making Mekanism stuff fancy
+
+**Mekanism Generators** 10.7.19.85
+as of v0.2.2
+used for: primary RF source in Modpack
 
 **ME Requester** 1.21.1-1.4.2
 as of v0.2
@@ -242,7 +274,7 @@ as of v0.2
 used for: practicing target for Silent Gear
 causes: "Moonlight Lib"
 
-**Mo Glass** 1.10.1-MC1.21-NeoForge
+Mo Glass 1.10.1-MC1.21-NeoForge
 as of v0.2 until v0.2.1
 used for: Adding Blocks for more building
 
@@ -288,11 +320,11 @@ as of v0.2.1
 used for: library/API
 caused by:
 
-**Open Parties and Claims** 0.25.10
-as of v0.2
+Open Parties and Claims 0.25.10
+as of v0.2 until v0.2.2
 used for: Claiming chunks for building protection and chunkloading
 
-**Open Sesame** 1.0.2
+Open Sesame 1.0.2
 as of v0.2 until v0.2.1
 used for: opening two doors at once just for fun
 
@@ -445,15 +477,19 @@ cases: "Balm"
 as of v0.1
 used for: ease of travelling and exploration
 
-**Xaero's Minimap and Waystones Compatibility** 1.0.1
+Xaero's Minimap and Waystones Compatibility 1.0.1
 as of v0.1 until v0.2.1
 used for: syncing "Waystones" and "Xaero's Minimap"
 
-**Xaero's Maps x Waystones**
+**Xaero's Maps x Waystones** 2.7.5
 as of v0.2.1
 used for: syncing "Waystones" and "Xaero's Minimap", replacing "Xaero's Minimap and Waystones Compatibility 1.0.1" because of Bug
 
-*YetAnotherConfigLib*
+**Xaero's World Map** 1.21.1-1.40.11
+as of v0.2.2
+used for: vieving "FTB Chunks" with "FTB Chunks x Xaero's Compat"
+
+*YetAnotherConfigLib* 3.8.2
 as of v0.2.1
 used for: library/API
 caused by: "Xaero's Maps x Waystones"
@@ -474,7 +510,7 @@ used for: fancy glass
 as of v0.2.1
 used for: fancy Rain
 
-**Distant Horizons**
+**Distant Horizons** 3.0.1-beta
 as of v0.2.1
 used for: adding "Level of Details" functionality
 

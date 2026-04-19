@@ -23,8 +23,8 @@
     "!waystones:.*_sharestone",
     "torchmaster:feral_flare_lantern",
     "torchmaster:frozen_pearl",
-    "enderio:powered_spawner",
-    "enderio:broken_spawner"
+    "mekanism:cardboard_box"
+
 
   ],
   // -----------------------------------------------------------
